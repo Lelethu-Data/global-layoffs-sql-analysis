@@ -161,7 +161,11 @@ DROP COLUMN row_num;
 
 -- ============================================================================
 -- Final Cleaned Dataset
+--With a total row count of 1995 records
 -- ============================================================================
 
 SELECT *
 FROM layoffs_staging2;
+
+Select Count(*)
+From layoffs_staging2;
