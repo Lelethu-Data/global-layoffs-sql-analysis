@@ -10,7 +10,6 @@ This script explores global layoff trends using SQL. The goal is not to
 answer a single predefined question, but to understand patterns, trends,
 and distributions within the data.
 
-```
 Focus areas:
 - Layoff magnitude (total and percentage)
 - Industry and country impact
