@@ -1,4 +1,4 @@
--- -- Project: Global Layoffs Data Cleaning
+-- Project: Global Layoffs Data Cleaning
 -- Description: SQL script for cleaning and preparing layoff data for analysis
 
 -- Started the project with the messy raw dataset with an initial total row count of 2361 records.
